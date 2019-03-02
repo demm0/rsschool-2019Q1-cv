@@ -5,7 +5,7 @@
 
 **Linkedin:** (https://www.linkedin.com/in/dmirty-televich-7ba3a5b2/)
 **e-mail:** dmitry.televich@gmail.com
-**Skype:** 
+**Skype:** Dmitry Televich
 
 ### Skills
 * Pascal: Basic knowledge of OOP, little code writing experience
