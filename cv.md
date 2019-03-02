@@ -4,7 +4,9 @@
 **Phone number:** +375447277836
 
 **Linkedin:** (https://www.linkedin.com/in/dmirty-televich-7ba3a5b2/)
+
 **e-mail:** dmitry.televich@gmail.com
+
 **Skype:** Dmitry Televich
 
 ### Skills
