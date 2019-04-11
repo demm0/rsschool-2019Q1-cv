@@ -7,18 +7,25 @@
 
 **e-mail:** dmitry.televich@gmail.com
 
-**Skype:** Dmitry Televich
+**Skype:** live:92afe5f318940da8
+
+**Viber:** +375447277836
+
+**Facebook:** Телевич Дмитрий
+
 
 ### Skills
-* Pascal: Basic knowledge of OOP, little code writing experience
-* javascript: Basic knowledge of OOP, little code writing experience
-
-### Extra skills
-* Adobe Photoshop
 * SolidWorks
 * 3DsMax
 * Компас3Д
 * Autocad
+* Pascal: Basic knowledge of OOP, little code writing experience
+* javascript: Basic knowledge of OOP, little code writing experience
+
+### Extra skills
+* Pascal: Basic knowledge of OOP, little code writing experience
+* javascript: Basic knowledge of OOP, little code writing experience
+* HTML5/CSS3: Basic knowledge of OOP, little code writing experience
 
 ### Code examples
 **GitHub** https://github.com/demm0
