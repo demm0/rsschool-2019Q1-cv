@@ -19,8 +19,7 @@
 * 3DsMax
 * Компас3Д
 * Autocad
-* Pascal: Basic knowledge of OOP, little code writing experience
-* javascript: Basic knowledge of OOP, little code writing experience
+* CorelDrow
 
 ### Extra skills
 * Pascal: Basic knowledge of OOP, little code writing experience
@@ -32,8 +31,9 @@
 
 ### Practical experience:
 <!-- For work experience, need work; for work, need work experience -->
-* *from 2015 to 
-    the present time* – "GLIVI" Fireplace Factory LLC" - Design engineer (with the duties of chief engineer)
+* *from 2015 to the present time* – "GLIVI" Fireplace Factory LLC" - Design engineer (with the duties of chief engineer)
+Duties at the current job
+setup of software of CNC machines; setting up the correct operation of CNC machines; troubleshooting of CNC machines; repair of the mechanical part of CNC machine tools; diagnostics and minor repair of electronic parts of CNC machines; development of 3D models and 2D drawings of the units and mechanisms of CNC machines for the subsequent manufacture of their analogues; provision of spare parts and tools for CNC machines.
 * *from 2013 to 2015* – "Belvtorchermet OJSC" - Mechanic
 * *from 2010 to 2013* – "Belarusian National Technical University (service in the armed forces of Belarus)" - course officer
 * *from 2008 to 2010* – "103 separate guards mobile brigade (service in the armed forces of Belarus)" - Deputy company commander of material support
@@ -51,3 +51,11 @@
 
 ### Foreign language skills
 English (A1), continuing education at Fox English School
+French – (A1)
+
+### About Me
+Iin my free time I like to design CNC machines; I have already designed and assembled 2 CNC machines (I continue to upgrade the second)
+fast learner
+purposeful
+assiduously
+with a sense of humor
